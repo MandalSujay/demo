@@ -1,3 +1,3 @@
 # demo
 This is my first repository
-first
+first (program)
